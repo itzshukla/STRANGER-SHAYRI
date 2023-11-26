@@ -1,0 +1,10 @@
+{
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Telegram Bot Token"
+    }
+  },
+  "addons": [
+    "heroku/python"
+  ]
+}
