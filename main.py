@@ -9,7 +9,7 @@ import os
 
 def start(update: Update, context: CallbackContext) -> None:
     update.message.reply_text(
-        "Welcome! I'm a bot that sends Shayari, song lyrics, jokes, and love Shayari. Made with ❤️ by @sasta_coder."
+   
         "\nUse /help to see all available commands."
     )
 
@@ -110,7 +110,7 @@ def cancel(update: Update, context: CallbackContext) -> None:
     update.message.reply_text("Message delivery canceled. Type /sspam for Shayari, /joke for jokes, /songs for song lyrics, /mspam for love Shayari.")
 
 def alive(update: Update, context: CallbackContext) -> None:
-    update.message.reply_text("BOT IS ALIVE AND WORKING LIKE LION 🦁. AAKHIR BETA BHI TOH XYTRA KA HU AUR AMAN KA BHAI🙂", parse_mode=ParseMode.MARKDOWN)
+    update.message.reply_text("BOT IS ALIVE AND WORKING LIKE LION 🦁. AAKHIR BETA BHI TOH SHIVANSH KA HU AUR STRANGER KA BHAI🙂", parse_mode=ParseMode.MARKDOWN)
 
 def main() -> None:
     updater = Updater(os.environ.get("BOT_TOKEN"))  # BOT_TOKEN is set in the Heroku Config Vars
