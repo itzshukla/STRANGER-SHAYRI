@@ -1,4 +1,4 @@
-# shayri
+# SAYARI
 By chat gpt
 
 <h2>  ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 🚀</h2> 
