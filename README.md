@@ -1,5 +1,5 @@
 # SAYARI
-By chat gpt
+By chat gpt made by Shukla & Stranger
 
 <img src="https://telegra.ph/file/aa4bf1e57d11fb75b602e.jpg">
 
