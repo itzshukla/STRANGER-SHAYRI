@@ -1,4 +1,5 @@
-from telegram import Update, ParseMode, User
+from telegram import Update, User
+from telegram.constants import ParseMode
 from telegram.ext import Updater, CommandHandler, CallbackContext, MessageHandler, Filters
 from shayari import shayari_list
 from jokes import jokes_list
